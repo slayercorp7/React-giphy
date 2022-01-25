@@ -1,0 +1,4 @@
+
+@apikey = "https://api.giphy.com/v1/gifs/search?api_key=PAq1tqg7bJZrMh487TFG8xgzQoHvn2bQ&q=doom&limit=10";
+
+GET {{apikey}}
